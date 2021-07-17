@@ -1,0 +1,7 @@
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step163\Step163\bin\Debug\Step163.exe.config
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step163\Step163\bin\Debug\Step163.exe
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step163\Step163\bin\Debug\Step163.pdb
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step163\Step163\obj\Debug\Step163.csproj.AssemblyReference.cache
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step163\Step163\obj\Debug\Step163.csproj.CoreCompileInputs.cache
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step163\Step163\obj\Debug\Step163.exe
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step163\Step163\obj\Debug\Step163.pdb
