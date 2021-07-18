@@ -15,8 +15,16 @@ namespace step222
             float weight = Convert.ToSingle(Console.ReadLine());
 
             //checks to see if the wieght is more than 50 or not. If it is, the user is informed that it is too heavy to be shipped. If not, then it moves on and asks for the width.
-            string isItTooHeavy = weight > 50 ? "Package too heavy to be shipped via Package Express. Have a good day." : "What is the width of your package?";
-            Console.WriteLine(isItTooHeavy);
+            if (weight > 50)
+            {
+                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                Console.ReadLine();
+                return;
+            }
+            else
+            {
+                Console.WriteLine("What is the width of your package?");
+            }
             float width = Convert.ToSingle(Console.ReadLine());
 
             //asks for the height
