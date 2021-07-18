@@ -24,25 +24,27 @@ namespace step222
             else
             {
                 Console.WriteLine("What is the width of your package?");
+
+                float width = Convert.ToSingle(Console.ReadLine());
+
+                //asks for the height
+                Console.WriteLine("What is the height of your package?");
+                float height = Convert.ToSingle(Console.ReadLine());
+
+                //asks for the length
+                Console.WriteLine("What is the length of your package?");
+                float length = Convert.ToSingle(Console.ReadLine());
+
+                //adds up the 3 dimensions given to see if the total is greater than 50. If it is, the user is informed that it is too big to be shipped. If not, then it lists the final price.
+                string isItTooBig = (width + height + length) > 50 ? "Package too big to be shipped via Package Express." : "Your estimated total for shipping this package is:";
+                Console.WriteLine(isItTooBig);
+
+                //final price is determined by multiplying all dimensions together. Then the product of that is multiplied by the weight. Finally, that product is divided by 100. The quotient is the final quote.
+                float total = ((width * height * length) * weight) / 100;
+                Console.WriteLine("$" + total + "\nThank you!");
+                Console.ReadLine();
             }
-            float width = Convert.ToSingle(Console.ReadLine());
-
-            //asks for the height
-            Console.WriteLine("What is the height of your package?");
-            float height = Convert.ToSingle(Console.ReadLine());
-
-            //asks for the length
-            Console.WriteLine("What is the length of your package?");
-            float length = Convert.ToSingle(Console.ReadLine());
-
-            //adds up the 3 dimensions given to see if the total is greater than 50. If it is, the user is informed that it is too big to be shipped. If not, then it lists the final price.
-            string isItTooBig = (width + height + length) > 50 ? "Package too big to be shipped via Package Express." : "Your estimated total for shipping this package is:";
-            Console.WriteLine(isItTooBig);
-
-            //final price is determined by multiplying all dimensions together. Then the product of that is multiplied by the weight. Finally, that product is divided by 100. The quotient is the final quote.
-            float total = ((width * height * length) * weight) / 100;
-            Console.WriteLine("$" + total + "\nThank you!");
-            Console.ReadLine();
+            
 
         }
     }
