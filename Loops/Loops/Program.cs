@@ -10,37 +10,37 @@ namespace Loops
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Guess a number.");
-            int number = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Guess the correct color. Options are blue, red, yellow, and green.");
+            string color = Console.ReadLine();
 
-            bool isGuessed = number == 12;
+            bool isGuessed = color == "red";
             do
             {
-                switch (number)
+                switch (color)
                 {
-                    case 62:
-                        Console.WriteLine("You guessed 62. Try again.");
-                        Console.WriteLine("Guess a number.");
-                        number = Convert.ToInt32(Console.ReadLine());
+                    case "blue":
+                        Console.WriteLine("You guessed blue. Incorrect. Try again.");
+                        Console.WriteLine("Guess a color. Options are blue, red, yellow, and green.");
+                        color = Console.ReadLine();
                         break;
-                    case 29:
-                        Console.WriteLine("You guessed 29. Try again.");
-                        Console.WriteLine("Guess a number.");
-                        number = Convert.ToInt32(Console.ReadLine());
+                    case "yellow":
+                        Console.WriteLine("You guessed yellow. Incorrect. Try again.");
+                        Console.WriteLine("Guess a color. Options are blue, red, yellow, and green.");
+                        color = Console.ReadLine();
                         break;
-                    case 55:
-                        Console.WriteLine("You guessed the number 55. Try again.");
-                        Console.WriteLine("Guess a number.");
-                        number = Convert.ToInt32(Console.ReadLine());
+                    case "green":
+                        Console.WriteLine("You guessed green. Incorrect. Try again.");
+                        Console.WriteLine("Guess a color. Options are blue, red, yellow, and green.");
+                        color = Console.ReadLine();
                         break;
-                    case 12:
-                        Console.WriteLine("You guessed the number 12. That is correct!");
+                    case "red":
+                        Console.WriteLine("You guessed red. That is correct!");
                         isGuessed = true;
                         break;
                     default:
-                        Console.WriteLine("You are wrong.");
-                        Console.WriteLine("Guess a number.");
-                        number = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("Incorrect. That is not one of the options to choose from.");
+                        Console.WriteLine("Guess a color. Options are blue, red, yellow, and green.");
+                        color = Console.ReadLine();
                         break;
                 }
 
