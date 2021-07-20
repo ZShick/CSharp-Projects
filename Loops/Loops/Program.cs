@@ -10,6 +10,14 @@ namespace Loops
     {
         static void Main(string[] args)
         {
+            int num = 10;
+            while (num > 0)
+            {
+                Console.WriteLine(num);
+                Console.ReadLine();
+                num--;
+            }
+
             //telling the user to guess a color from 4 options.
             Console.WriteLine("Guess the correct color. Options are blue, red, yellow, and green.");
             string color = Console.ReadLine();
