@@ -55,7 +55,7 @@ namespace Iteration
 
             foreach (int score in testScores)
             {
-                if (score >85)
+                if (score > 85)
                 {
                     passingScores.Add(score);
                 }

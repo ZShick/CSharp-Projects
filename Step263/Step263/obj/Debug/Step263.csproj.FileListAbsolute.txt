@@ -1,0 +1,7 @@
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step263\Step263\bin\Debug\Step263.exe.config
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step263\Step263\bin\Debug\Step263.exe
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step263\Step263\bin\Debug\Step263.pdb
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step263\Step263\obj\Debug\Step263.csproj.AssemblyReference.cache
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step263\Step263\obj\Debug\Step263.csproj.CoreCompileInputs.cache
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step263\Step263\obj\Debug\Step263.exe
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step263\Step263\obj\Debug\Step263.pdb
