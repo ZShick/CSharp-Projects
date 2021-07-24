@@ -1,0 +1,7 @@
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step292\Step292\bin\Debug\Step292.exe.config
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step292\Step292\bin\Debug\Step292.exe
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step292\Step292\bin\Debug\Step292.pdb
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step292\Step292\obj\Debug\Step292.csproj.AssemblyReference.cache
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step292\Step292\obj\Debug\Step292.csproj.CoreCompileInputs.cache
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step292\Step292\obj\Debug\Step292.exe
+C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step292\Step292\obj\Debug\Step292.pdb
