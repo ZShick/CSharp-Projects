@@ -16,6 +16,7 @@ namespace Step279
         //adds 2 to whatever the decimal is and returns it
         public decimal Add(decimal num1)
         {
+            Convert.ToInt32(num1);
             return num1 + 2;
         }
         //converts the string into an integer, then adds 3 to it before returning it
