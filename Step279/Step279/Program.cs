@@ -25,7 +25,7 @@ namespace Step279
             decimal num1 = Convert.ToDecimal(Console.ReadLine());
 
             //Add method is called and given the User's number as a decimal for a parameter. The result of the method is displayed.
-            var result1 = opObject.Add(num1);
+            var result1 = opObject.Add1(num1);
             Console.WriteLine(num1 + " plus 2 equals " + result1);
 
             //asks user for a number then converts the number to a a string

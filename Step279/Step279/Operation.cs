@@ -14,10 +14,12 @@ namespace Step279
             return num + 5;
         }
         //adds 2 to whatever the decimal is and returns it
-        public decimal Add(decimal num1)
+        public decimal Add1(decimal num1)
         {
             Convert.ToInt32(num1);
-            return num1 + 2;
+            decimal sum = num1 + 2;
+            Convert.ToInt32(sum);
+            return sum;
         }
         //converts the string into an integer, then adds 3 to it before returning it
         public int Add(string num2)
