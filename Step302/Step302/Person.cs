@@ -11,11 +11,6 @@ namespace Step302
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public virtual void SayName()
-        {
-            //made this method virtual so that the Employee class can alter it. It prints out a persons name.
-            Console.WriteLine(FirstName + " " + LastName);
-            Console.ReadLine();
-        }
+        public abstract void SayName();
     }
 }

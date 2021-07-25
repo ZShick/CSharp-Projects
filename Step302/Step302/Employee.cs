@@ -10,10 +10,10 @@ namespace Step302
     {
         public override void SayName()
         {
-            //this method is inherited but overridden from the abstract superclass "Person".
-            Console.WriteLine("This employee's name is: ");
-            //extra text is added to label this person as a n employee.
-            base.SayName();
+            Console.WriteLine("This employee's name is: " + FirstName + " " + LastName);
+            Console.ReadLine();
+            //this method is inherited and overridden from the abstract superclass "Person".
+            Console.ReadLine();
 
         }
     }
