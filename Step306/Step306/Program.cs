@@ -16,6 +16,7 @@ namespace Step306
             employee.LastName = "Student";
             employee.SayName();
 
+            //creating an object of type IQuittable and calling the Quit() method on it
             IQuittable x = new Employee();
             x.Quit();
 

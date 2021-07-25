@@ -8,6 +8,7 @@ namespace Step306
 {
     interface IQuittable
     {
+        //created an interface with a Quit Method
         void Quit();
     }
 }

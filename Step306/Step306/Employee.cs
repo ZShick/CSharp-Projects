@@ -16,6 +16,7 @@ namespace Step306
         }
         public void Quit()
         {
+            //defining the Quit() method is necessary beacuse the IQuittable interface is inherited
             Console.WriteLine("You have quit.");
             Console.ReadLine();
             return;
