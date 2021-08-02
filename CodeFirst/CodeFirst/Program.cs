@@ -11,25 +11,25 @@ namespace CodeFirst
     {
         static void Main(string[] args)
         {
-            using (var ctx = new SchoolContext())
+            using (var x = new SchoolContext())
             {
-                var stud = new Student() { StudentName = "Holly" };
+                var student1 = new Student() { Name = "Holly" };
 
-                ctx.Students.Add(stud);
-                ctx.SaveChanges();
+                x.Students.Add(student1);
+                x.SaveChanges();
             }
         }
     }
     public class Student
     {
-        public int StudentID { get; set; }
-        public string StudentName { get; set; }
+        public int ID { get; set; }
+        public string Name { get; set; }
         public Grade Grade { get; set; }
     }
     public class Grade
     {
-        public int GradeId { get; set; }
-        public string GradeName { get; set; }
+        public int GId { get; set; }
+        public string GName { get; set; }
         public string Section { get; set; }
 
         public ICollection<Student> Students { get; set; }
