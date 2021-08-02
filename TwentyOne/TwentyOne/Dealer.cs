@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Casino
+namespace TwentyOne
 {
     public class Dealer
     {
