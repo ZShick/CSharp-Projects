@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using System.ComponentModel.DataAnnotations;
 
 namespace CodeFirst
 {
@@ -13,7 +14,7 @@ namespace CodeFirst
         {
             using (var x = new SchoolContext())
             {
-                var student1 = new Student() { Name = "Holly" };
+                var student1 = new Student() { StudentName = "Holly", StudentID = 1};
 
                 x.Students.Add(student1);
                 x.SaveChanges();
@@ -22,13 +23,15 @@ namespace CodeFirst
     }
     public class Student
     {
-        public int ID { get; set; }
-        public string Name { get; set; }
+        [Key]
+        public int StudentID { get; set; }
+        public string StudentName { get; set; }
         public Grade Grade { get; set; }
     }
     public class Grade
     {
-        public int GId { get; set; }
+        [Key]
+        public int GradeId { get; set; }
         public string GName { get; set; }
         public string Section { get; set; }
 
