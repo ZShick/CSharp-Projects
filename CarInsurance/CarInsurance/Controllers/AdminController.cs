@@ -51,9 +51,13 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                //This is where the quote is determined
+                //First I set a vaiable for the current day and the base value for the quote
                 DateTime today = DateTime.Today;
                 decimal quote = 50;
+                //Set the value for an age variable to be equal to today's year minus the person's DOB
                 int age = today.Year - insuree.DateOfBirth.Year;
+                //Age is checked against a couple of if statments that determine whether to add more money to the quote
                 if (age <= 18)
                 {
                     quote = quote + 100;
@@ -66,10 +70,12 @@ namespace CarInsurance.Controllers
                 {
                     quote = quote + 25;
                 }
+                //if the car is too old or too new it will cost more
                 if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
                 {
                     quote = quote + 25;
                 }
+                //checks to see if the car is a Porche and if it is a 911 Carrera Porsche
                 if (insuree.CarMake == "Porsche")
                 {
                     quote = quote + 25;
@@ -78,8 +84,10 @@ namespace CarInsurance.Controllers
                 {
                     quote = quote + 25;
                 }
+                //each speeding ticket costs 10 extra dollars so the number of speeding tickets they have is multiplied by ten and that is added to the quote cost
                 decimal x = Convert.ToDecimal(insuree.SpeedingTickets * 10);
                 quote = quote + x;
+                //if they have a DUI then their total is increased by 25%. If they selected FullCoverage then in is increased by 50%
                 if (insuree.DUI == true)
                 {
                     quote = (quote / 4) * 5;
@@ -88,6 +96,7 @@ namespace CarInsurance.Controllers
                 {
                     quote = (quote / 2) * 3;
                 }
+                //changes are saved to database and then we are taken to the Admin Index page to view the current list of quotes and names stored
                 insuree.Quote = quote;
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
