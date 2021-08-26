@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step285\step285\bin\Debug\step285.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step285\step285\bin\Debug\step285.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step285\step285\bin\Debug\step285.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step285\step285\obj\Debug\step285.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step285\step285\obj\Debug\step285.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step285\step285\obj\Debug\step285.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step285\step285\obj\Debug\step285.pdb

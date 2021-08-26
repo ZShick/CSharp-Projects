@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step139\Step139\bin\Debug\Step139.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step139\Step139\bin\Debug\Step139.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step139\Step139\bin\Debug\Step139.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step139\Step139\obj\Debug\Step139.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step139\Step139\obj\Debug\Step139.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step139\Step139\obj\Debug\Step139.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step139\Step139\obj\Debug\Step139.pdb

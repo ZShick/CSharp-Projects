@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step280\Step280\bin\Debug\Step280.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step280\Step280\bin\Debug\Step280.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step280\Step280\bin\Debug\Step280.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step280\Step280\obj\Debug\Step280.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step280\Step280\obj\Debug\Step280.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step280\Step280\obj\Debug\Step280.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step280\Step280\obj\Debug\Step280.pdb

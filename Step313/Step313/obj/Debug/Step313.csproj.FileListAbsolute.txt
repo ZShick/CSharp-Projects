@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step313\Step313\bin\Debug\Step313.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step313\Step313\bin\Debug\Step313.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step313\Step313\bin\Debug\Step313.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step313\Step313\obj\Debug\Step313.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step313\Step313\obj\Debug\Step313.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step313\Step313\obj\Debug\Step313.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step313\Step313\obj\Debug\Step313.pdb

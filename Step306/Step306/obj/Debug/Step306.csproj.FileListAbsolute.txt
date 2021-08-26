@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step306\Step306\bin\Debug\Step306.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step306\Step306\bin\Debug\Step306.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step306\Step306\bin\Debug\Step306.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step306\Step306\obj\Debug\Step306.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step306\Step306\obj\Debug\Step306.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step306\Step306\obj\Debug\Step306.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step306\Step306\obj\Debug\Step306.pdb

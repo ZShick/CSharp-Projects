@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zizzle\\Documents\\GitHub\\CSharp-Projects\\TwentyOne\\Casino\\Casino.csproj",
+      "projectUniqueName": "C:\\Users\\Zizzle\\Documents\\TechAcademyBacklog\\C#\\TwentyOne\\Casino\\Casino.csproj",
       "projectName": "Casino",
-      "projectPath": "C:\\Users\\Zizzle\\Documents\\GitHub\\CSharp-Projects\\TwentyOne\\Casino\\Casino.csproj",
+      "projectPath": "C:\\Users\\Zizzle\\Documents\\TechAcademyBacklog\\C#\\TwentyOne\\Casino\\Casino.csproj",
       "packagesPath": "C:\\Users\\Zizzle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zizzle\\Documents\\GitHub\\CSharp-Projects\\TwentyOne\\Casino\\obj\\",
+      "outputPath": "C:\\Users\\Zizzle\\Documents\\TechAcademyBacklog\\C#\\TwentyOne\\Casino\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

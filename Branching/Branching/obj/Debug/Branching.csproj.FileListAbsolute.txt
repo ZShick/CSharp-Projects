@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Branching\Branching\bin\Debug\Branching.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Branching\Branching\bin\Debug\Branching.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Branching\Branching\bin\Debug\Branching.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Branching\Branching\obj\Debug\Branching.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Branching\Branching\obj\Debug\Branching.pdb

@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step199\step199\bin\Debug\step199.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step199\step199\bin\Debug\step199.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step199\step199\bin\Debug\step199.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step199\step199\obj\Debug\step199.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step199\step199\obj\Debug\step199.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step199\step199\obj\Debug\step199.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\step199\step199\obj\Debug\step199.pdb
