@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Loops\Loops\bin\Debug\Loops.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Loops\Loops\bin\Debug\Loops.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Loops\Loops\bin\Debug\Loops.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Loops\Loops\obj\Debug\Loops.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Loops\Loops\obj\Debug\Loops.pdb

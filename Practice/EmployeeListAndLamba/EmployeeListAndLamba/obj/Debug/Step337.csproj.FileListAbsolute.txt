@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step337\Step337\bin\Debug\Step337.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step337\Step337\bin\Debug\Step337.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step337\Step337\bin\Debug\Step337.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step337\Step337\obj\Debug\Step337.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step337\Step337\obj\Debug\Step337.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step337\Step337\obj\Debug\Step337.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step337\Step337\obj\Debug\Step337.pdb

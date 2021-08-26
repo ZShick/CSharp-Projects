@@ -1,7 +1,0 @@
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step324\Step324\bin\Debug\Step324.exe.config
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step324\Step324\bin\Debug\Step324.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step324\Step324\bin\Debug\Step324.pdb
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step324\Step324\obj\Debug\Step324.csproj.AssemblyReference.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step324\Step324\obj\Debug\Step324.csproj.CoreCompileInputs.cache
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step324\Step324\obj\Debug\Step324.exe
-C:\Users\Zizzle\Documents\GitHub\CSharp-Projects\Step324\Step324\obj\Debug\Step324.pdb
